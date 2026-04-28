@@ -1,1 +1,24 @@
-# 000124-Amplify-and-React-App Workshop
+# ⚛️ Amplify and React App
+
+Build a React application with AWS Amplify.
+
+## Overview
+
+This is a hands-on workshop from the **AWS First Cloud Journey** series.
+
+## Workshop
+
+📖 **[Start the workshop](https://vanhoangkha.github.io/000124-Amplify-and-React-App/)**
+
+## Prerequisites
+
+- An AWS account
+- Basic understanding of cloud computing concepts
+
+## Author
+
+**Van Hoang Kha** — Cloud Security Engineer | AWS Community Builder
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
