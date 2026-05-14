@@ -1,6 +1,6 @@
 ---
 title : "Cách sử dụng các thành phần AWS Amplify Studio cục bộ"
-date :  "`r Sys.Date()`" 
+date: 2024-01-01
 weight : 7
 chapter : false
 pre : " <b> 7. </b> "

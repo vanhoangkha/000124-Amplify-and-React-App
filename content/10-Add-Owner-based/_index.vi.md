@@ -1,6 +1,6 @@
 ---
 title : "Thêm quy tắc ủy quyền dựa trên chủ sở hữu"
-date :  "`r Sys.Date()`" 
+date: 2024-01-01
 weight : 10
 chapter : false
 pre : " <b> 10. </b> "

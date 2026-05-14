@@ -1,6 +1,6 @@
 ---
 title : "Dịch vụ lưu trữ Giao diện người dùng ứng dụng AWS Amplify và React đầu tiên của bạn"
-date :  "`r Sys.Date()`" 
+date: 2024-01-01
 weight : 12
 chapter : false
 pre : " <b> 12. </b> "

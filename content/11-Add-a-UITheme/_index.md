@@ -1,6 +1,6 @@
 ---
 title : "Add UI Themes to your Project"
-date : "`r Sys.Date()`"
+date: 2024-01-01
 weight : 11
 chapter : false
 pre : " <b> 11. </b> "

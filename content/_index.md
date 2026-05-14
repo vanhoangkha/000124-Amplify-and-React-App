@@ -1,6 +1,6 @@
 ---
 title : "Full Stack for Front-End Developers: Build your first AWS Amplify and React App intro"
-date: "`r Sys.Date()`"
+date: 2024-01-01
 Weight: 1
 chapter : false
 ---

@@ -1,6 +1,6 @@
 ---
 title : "Các mô hình dữ liệu kết nối ứng dụng AWS Amplify và React đầu tiên của bạn với các thành phần giao diện người dùng"
-date :  "`r Sys.Date()`" 
+date: 2024-01-01
 weight : 4
 chapter : false
 pre : " <b> 4. </b> "
