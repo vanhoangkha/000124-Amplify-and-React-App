@@ -1,4 +1,4 @@
-# ⚛️ Amplify and React App
+# Amplify and React App
 
 Build a React application with AWS Amplify.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series.
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000124-Amplify-and-React-App/)**
+**[Start the workshop](https://vanhoangkha.github.io/000124-Amplify-and-React-App/)**
 
 ## Prerequisites
 
